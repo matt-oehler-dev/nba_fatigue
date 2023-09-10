@@ -41,6 +41,7 @@ What do I want the target of the model to be?
 What should the final dataframe looklike?
 
 - It should include these columns
+
   - team of interest
   - opponent
   - home or away
@@ -54,3 +55,5 @@ What should the final dataframe looklike?
   - score differential
   - number of turnovers (and how many this is above or below the teams average)
   - number of fouls (and how this compares against season or against rested games)
+
+  * looking at the fatigue difference between the teams (eg both teams will have played some games recently, but a really rested team vs a really unrested team could be insightful)
